@@ -122,7 +122,7 @@ nav .container li.active {
 }
 /* Header styles end */
 
-@media (max-device-width: 480px) {
+@media (max-width: 480px) {
     body .mob-wrapper {
         padding: 0 29px;
     }
@@ -131,7 +131,7 @@ nav .container li.active {
     }
 }
 /* For mobile devices */
-@media (max-device-width: 1024px) {
+@media (max-width: 1024px) {
     .mob-wrapper {
         padding: 0 45px;
     }
